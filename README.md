@@ -19,7 +19,8 @@ Overall, our objective is to leverage the power of data analytics to enhance the
 ![Screenshot 2024-08-06 024809](https://github.com/user-attachments/assets/005963d6-2f50-418c-a463-79cd21e94c29)
 
 ![Screenshot 2024-08-06 024828](https://github.com/user-attachments/assets/29b7fd28-1f2a-40bf-b382-2e5cca2e69c3)
+![Screenshot 2024-08-06 024839](https://github.com/user-attachments/assets/ffa1e32e-32e7-4687-bc37-962b3a38651c)
 ![Screenshot 2024-08-06 024910](https://github.com/user-attachments/assets/2e276cc2-a87e-4c95-bce1-d6b7214aef5d)
 ![Screenshot 2024-08-06 024857](https://github.com/user-attachments/assets/dfa78856-04d0-4ec5-9b4b-9e771b76a356)
-![Screenshot 2024-08-06 024839](https://github.com/user-attachments/assets/ffa1e32e-32e7-4687-bc37-962b3a38651c)
+
 
