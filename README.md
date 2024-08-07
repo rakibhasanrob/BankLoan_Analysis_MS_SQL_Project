@@ -2,7 +2,7 @@
 
 ### Objective:
 
-In this SQL project we will utilize advanced querying techniques and data visualization tools to present our findings in a clear and concise manner. This will enable stakeholders to easily interpret the results and make informed decisions based on the insights derived from the Bank Loan Database.
+In this SQL project we will utilize advanced querying techniques to present our findings in a clear and concise manner. This will enable stakeholders to easily interpret the results and make informed decisions based on the insights derived from the Bank Loan Database.
 
 In addition, we plan to implement strict data security measures to safeguard sensitive financial information and ensure compliance with regulatory guidelines. By prioritizing data integrity and confidentiality, we aim to build trust with customers and uphold the bank's reputation in the industry.
 
